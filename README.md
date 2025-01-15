@@ -1,1 +1,1 @@
-# Skyramp-for_VSCode
+# Skyramp-for-VSCode
